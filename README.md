@@ -1,2 +1,2 @@
 # todo_app
-this is simple todo application
+[website link](https://sidharth48-hub.github.io/todo_app/)
